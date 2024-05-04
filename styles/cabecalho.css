@@ -1,0 +1,27 @@
+header{
+    width: 80%;
+    margin-bottom: 8em;
+}
+
+.topo-portifolio{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.portifolio-logo-site{
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.lista-menu-site{
+    display: flex;
+    gap: 2em;
+    padding: 15px;
+}
+
+.item-lista-menu-site{
+    font-size: 17px;
+    font-weight: 400;
+}
